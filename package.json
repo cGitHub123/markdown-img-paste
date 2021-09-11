@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "markdown-img-paste:paste"
   },
-  "repository": "https://github.com/cocoakekeyu/markdown-img-paste",
+  "repository": "https://github.com/cGitHub123/markdown-img-paste.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
